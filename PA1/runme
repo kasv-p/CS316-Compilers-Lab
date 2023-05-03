@@ -1,0 +1,2 @@
+#!/bin/bash
+./scanner $1 $2
