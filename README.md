@@ -4,7 +4,7 @@ This repository contains the implementation of a compiler for the MICRO language
 
 ## Programming Assignments
 
-The compiler is developed in several project assignments. The following are the completed assignments:
+The compiler is developed in several programming assignments. The following are the assignments:
 
 - **Programming Assignment 1:** Implementation of a scanner for the MICRO language.
 - **Programming Assignment 2:** Implementation of a parser for the MICRO language.
